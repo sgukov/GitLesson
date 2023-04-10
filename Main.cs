@@ -4,6 +4,8 @@ class Main {
         Console.WriteLine("Привет!");
         Person p = new Person();
         p.SetName("Sergey");
+
+        Console.WriteLine(p.GetName());
     }
 
 }
