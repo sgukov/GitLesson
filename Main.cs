@@ -1,4 +1,3 @@
-
 class Main {
 
     public void Main() {
